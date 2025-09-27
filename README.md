@@ -4,6 +4,7 @@ Here, I will try to show the work I do in my path to become a data analyst.
 ## **SQL** ##
 | Project name   |   Description       |
 |----------------|----------------|
-| Pizza Sales  |   Conducted data analysis on survey results from international students at a Japanese university, using postgresql to query, clean and analyze data  on social connectedness, acculturative stress, and depression risk.             |
-| Row 2, Cell 1  | Row 2, Cell 2   |
-| Row 3, Cell 1  | Row 3, Cell 2   |
+| Analyzing Students Mental Health  |   Conducted data analysis on survey results from international students at a Japanese university, using postgresql to query, clean and analyze data  on social connectedness, acculturative stress, and depression risk, investigated the impact of length of stay abroad, extracting information.             |
+| Pizza Sales  | Analyzed pizza sales data in PostgreSQL to identify top-selling products, customer behavior, revenue distribution, and peak hours using joins, aggregations, window functions, and CTEs to provide business insights and improvement opportunities.   |
+| Data Cleaning  | Cleaned and transformed a global layoffs dataset in PostgreSQL by removing duplicates, handling NULL values, standardizing text fields, and converting date formats. A project focused on data cleaning best practices using window functions, string manipulation, and date conversions.   |
+| Data Cleanig And Visualization of Netflix dataset  | Row 3, Cell 2   |
