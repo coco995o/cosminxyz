@@ -18,4 +18,4 @@ Here, I will try to show the work I do in my path to become a data analyst.
 | Project name   |   Description       |
 |----------------|----------------|
 | [Data Cleaning And Visualization of Netflix dataset](https://github.com/coco995o/Data-Cleaning-and-Visualization-of-Netflix-dataset)  | Cleaned Netflix dataset of duplicates, null values, populating fields. Used PowerBi to visualize  most popular genres, countries with the most movies produced, total number of movies on netflix.   |
-| [Housing data Visualization](https://github.com/coco995o/Data-Cleaning-and-Visualization-of-Netflix-dataset](https://github.com/coco995o/Data-Cleaning-and-Visualization-of-Housing-Dataset/tree/main?tab=readme-ov-file)  | Data analysis regarding housing data, showing most successful years, most expensive districts, houses sold by district and total revenue. |
+| [Housing data Visualization](https://github.com/coco995o/Data-Cleaning-and-Visualization-of-Housing-Dataset/blob/main/README.md)  | Data analysis regarding housing data, showing most successful years, most expensive districts, houses sold by district and total revenue. |
